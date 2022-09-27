@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EinfuehrungCSS/EinfuehrungCSS.iml" filepath="$PROJECT_DIR$/EinfuehrungCSS/EinfuehrungCSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridLayoutUebung/GridLayoutUebung.iml" filepath="$PROJECT_DIR$/GridLayoutUebung/GridLayoutUebung.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LF04.iml" filepath="$PROJECT_DIR$/.idea/LF04.iml" />
     </modules>
   </component>
