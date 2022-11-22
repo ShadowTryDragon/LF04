@@ -3,11 +3,11 @@ let abfrage = () => {
     let ok = true;
     for (let i = 0; i < 3 && ok; i++){
         if (password === prompt((i+1)+".Versuch:Was bedeutet DQM", "nope")){
-            location.href = "http://www.szut.de/"
+            location.href = "https://r.mtdv.me/giveaways/ouXmoGfVTD"
             ok = false;
         }
         else if (i === 2) {
-            document.getElementById("text").innerHTML = "Verschwinde";
+            document.getElementById("text").innerHTML = "";
 
         }
 
