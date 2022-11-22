@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/EinfuehrungCSS/EinfuehrungCSS.iml" filepath="$PROJECT_DIR$/EinfuehrungCSS/EinfuehrungCSS.iml" />
       <module fileurl="file://$PROJECT_DIR$/GridLayoutUebung/GridLayoutUebung.iml" filepath="$PROJECT_DIR$/GridLayoutUebung/GridLayoutUebung.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaScript/JavaScript.iml" filepath="$PROJECT_DIR$/JavaScript/JavaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LF04.iml" filepath="$PROJECT_DIR$/.idea/LF04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PasswortAb/PasswortAb.iml" filepath="$PROJECT_DIR$/PasswortAb/PasswortAb.iml" />
     </modules>
   </component>
 </project>
